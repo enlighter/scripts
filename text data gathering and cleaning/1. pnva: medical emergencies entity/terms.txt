@@ -1,0 +1,129 @@
+ head: Injury and illness
+    severe Abdominal pain
+    Appendicitis 
+peritonitis
+    Ballistic trauma 
+gunshot wound
+    Head trauma
+    Hyperthermia
+heat stroke
+sunstroke
+        Malignant hyperthermia 
+    Hypothermia
+frostbite
+    Intestinal obstruction
+    Pancreatitis
+    Peritonitis
+    Poisoning
+        Food poisoning
+        Venomous animal bite 
+    Ruptured spleen
+    Septic arthritis
+    Septicaemia blood infection
+    Severe burn 
+scalding
+chemical burns
+    Spreading wound infection
+    Suspected spinal injury
+    Traumatic brain injury
+    Spinal disc herniation 
+head: Infections
+    Lyme disease infection
+    Malaria infection
+    Rabies infection
+    Salmonella poisoning 
+head: Cardiac and circulatory
+    Aortic aneurysm
+ruptured aneurysm
+    Aortic dissection
+    Bleeding
+        Hemorrhage
+        Hypovolemia
+        Internal bleeding 
+    Cardiac arrest
+    Cardiac arrhythmia
+    Cardiac tamponade
+    Hypertensive emergency
+    Myocardial infarction 
+heart attack
+    Ventricular fibrillation 
+head: Metabolic
+    Acute renal failure
+    Addisonian crisis
+    advanced Dehydration
+acute dehydration
+    Diabetic coma
+        Diabetic ketoacidosis
+        Hypoglycemic coma 
+    severe Electrolyte disturbance
+    Hepatic encephalopathy
+    Lactic acidosis
+    extreme anorexia
+extreme bulimia
+    Thyroid storm 
+head: Neurological and Neurosurgical
+    Attempted suicide
+    Cerebrovascular accident
+stroke
+    Subarachnoid hemorrhage
+    acute Subdural hematoma
+    Convulsion
+ seizure
+    Meningitis
+    Syncope
+fainting
+fainted
+    Acute spinal cord compression 
+head: Psychiatric
+    Psychotic episode
+    Suicidal ideation 
+head: Ophthalmological
+    Acute angle closure glaucoma
+acute glaucoma
+    Orbital perforation 
+orbital penetration
+    Retinal detachment 
+head: Respiratory
+    Agonal breathing
+    Asphyxia
+        Angioedema
+        Choking
+        Drowning
+        Smoke inhalation 
+    acute Asthma
+    Epiglottitis
+severe croup
+    Pneumothorax
+    Pulmonary embolism
+    Respiratory failure 
+head: Shock
+    Anaphylaxis
+    Cardiogenic shock
+    Hypovolemic shock 
+    Neurogenic shock
+    Obstructive shock 
+massive pulmonary embolism
+ Cardiac tamponade
+    Septic shock 
+head: Obstetrics
+    Ectopic pregnancy
+    Eclampsia
+        Pre eclampsia
+        HELLP syndrome
+help syndrome 
+    Fetal distress
+    Obstetrical hemorrhage
+    Placental abruption
+    Prolapsed cord
+    Puerperal sepsis
+    Shoulder dystocia
+    Uterine rupture 
+head: Urological, andrological, and gynecologic
+    Ovarian torsion
+    Gynecologic hemorrhage
+    Paraphimosis
+    Priapism
+    Sexual assault 
+rape
+    Testicular torsion
+    Urinary retention 
