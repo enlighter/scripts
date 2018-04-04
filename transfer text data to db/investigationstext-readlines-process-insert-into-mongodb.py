@@ -6,8 +6,8 @@ db = client.psva
 
 data_list = []
 
-with open('diseases_mongo_json.txt') as diseases_file:
-    data_list = diseases_file.readlines()
+with open('investigation_mongo_json.txt') as investigations_file:
+    data_list = investigations_file.readlines()
 
 for line in data_list:
     line = line[:-2]
@@ -15,7 +15,7 @@ for line in data_list:
     single_entry_dict = json.loads(line)
     print(single_entry_dict)
 
-    inserted_id = db['diseases'].insert_one(single_entry_dict).inserted_id
+    inserted_id = db['investigations'].insert_one(single_entry_dict).inserted_id
     print(inserted_id)
 
 client.close()
